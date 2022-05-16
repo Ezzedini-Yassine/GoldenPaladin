@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Yassine Ezzedini</h1>
 <h3 align="center">A passionate software and DevOps engineer from Tunisia</h3>
-<img align="right" alt="gtr" width="400" src="https://giphy.com/gifs/car-snow-cars-10cXff6xep02Na">
+<img align="right" alt="gtr" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenpaladin&label=Profile%20views&color=0e75b6&style=flat" alt="goldenpaladin" /> </p>
 
